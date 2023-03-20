@@ -9,5 +9,6 @@ function Home({ color, username, city }) {
     </div>
   );
 }
+// console.log(Home)
 
 export default Home;
